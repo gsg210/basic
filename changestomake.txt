@@ -1,0 +1,15 @@
+CHANGE bottomBorder height to 3px
+
+**add copyright to bottom**
+*maybe change "main" height to 800px or so*
+*maybe add 10px padding to links*
+*possibly add the below to portfolio*
+.projects {
+  position: relative;
+  background: #4aaaa5;
+  color: white;
+  height: 50px;
+  width: 256px;
+  left: 20px;
+  top: 140px;
+  }
